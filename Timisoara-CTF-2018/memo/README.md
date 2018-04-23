@@ -70,6 +70,7 @@ We found a **format string vulnerability** that means we can read all the progra
 
 First, we code a little python script to read the memory:
 
+```python
     from pwn import *
     import sys
 
@@ -91,6 +92,7 @@ First, we code a little python script to read the memory:
             r.close()
         except EOFError, exception:
                 pass
+```
 We run it:
 
     $ python pwner.py
