@@ -10,9 +10,10 @@ When opened, we saw a lot of http request from `10.0.2.15` to `167.99.233.88` an
 
 The second thing that comes to our attention is the "Credentials" tab in NetworkMiner.
 In this tab there was that:
-|Client|Server|Protocol|Username|Password|...|
-|-|-|-|-|-|-|
-|10.0.2.15|167.99.233.88 [167.99.233.88][Private Area] (Other)|HTTP|admin|N/A|...|
+
+|Client   |Server                                             |Protocol|Username|Password|...|
+|---------|---------------------------------------------------|--------|--------|--------|---|
+|10.0.2.15|167.99.233.88 [167.99.233.88][Private Area] (Other)|HTTP    |admin   |N/A     |...|
 
 wich means that the user authenticate on some `Private Area` with user `admin`.
 
