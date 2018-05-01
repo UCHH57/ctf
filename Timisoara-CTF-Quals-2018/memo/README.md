@@ -1,4 +1,4 @@
-# [Timisoara CTF 2018] memo (Pwnable-70pts)
+# [Timisoara CTF Quals 2018] memo (Pwnable-70pts)
 
 ## Discovery time !
 

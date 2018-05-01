@@ -1,4 +1,4 @@
-# [Timisoara CTF 2018] Strange behavior (Forensics-100pts)
+# [Timisoara CTF Quals 2018] Strange behavior (Forensics-100pts)
 
 In this task we were given a file of unknown type.
 
